@@ -9,7 +9,7 @@
 # -----------------------------------------------------------------------------
 
 import collections
-from Modules.base import VerbTest
+from .Modules import VerbTest
 
 
 class VerbTestRunner(VerbTest):
