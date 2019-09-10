@@ -15,7 +15,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-        name="VerbTest",
+        name="verbtest",
         version="1.0.0",
         description="",
         author="Kemp94",
